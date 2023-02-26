@@ -1,4 +1,4 @@
-# **Programacón (Reto 4)**
+# **Programación (Reto 4)**
 ## _Desarrallado por Ana Maria De Felipe Briñez._
 ***
 ### Usando el seudocódigo y diagramas de flujo para entender un poco del mundo de la programación.
