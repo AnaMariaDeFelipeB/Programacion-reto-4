@@ -7,7 +7,7 @@
 
 ![Pasosprimos](https://i.postimg.cc/02v7r69r/Pasoprimos.jpg) 
 
-* Luego desarrollamos el pseudocódigo y el diagram de flujo relacionados los pasos para encontrar números primos. 
+* Luego desarrollamos el pseudocódigo y el diagrama de flujo relacionados los pasos para encontrar números primos. 
 
  `Pseudocódigo para encontrar números primos.` 
 ```pseudocode
