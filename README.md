@@ -101,4 +101,4 @@ Fin.
 ![Diagramaraices](https://i.postimg.cc/6pjx3wW7/Diagramaraices.png)
 
 ***
-#### Por el momento así vamos, aunque es un poco complicado, lentamente lo vamos logrando.
+#### Por el momento así vamos.
