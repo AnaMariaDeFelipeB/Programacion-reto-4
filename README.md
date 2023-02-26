@@ -43,9 +43,9 @@ Fin.
 
 * Ahora bien, en segundo lugar desarrollamos la misma actividad, solo que esta vez estableciendo los pasos para hallar raices. 
 
- `Pseudocódigo para hallar raices.`
+ `Pseudocódigo para hallar raices cuadradas.`
  ```pseudocode
   instrucciones
 ```
 
-`Diagrama de flujo hallar raices.`
+`Diagrama de flujo hallar raices cuadradas.`
