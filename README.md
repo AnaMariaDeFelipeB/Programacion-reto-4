@@ -41,6 +41,8 @@ Fin.
 
 ![Diagramaprimos](https://i.postimg.cc/Gt5BXNw7/Diagramaprimos.png)
 
+***
+
 * Ahora bien, en segundo lugar desarrollamos la misma actividad, solo que esta vez estableciendo los pasos para hallar raices. 
 
  `Pseudocódigo para hallar raices cuadradas.`
@@ -98,4 +100,5 @@ Fin.
 
 ![Diagramaraices](https://i.postimg.cc/6pjx3wW7/Diagramaraices.png)
 
+***
 #### Por el momento así vamos, aunque es un poco complicado, lentamente lo vamos logrando.
