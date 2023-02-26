@@ -49,3 +49,5 @@ Fin.
 ```
 
 `Diagrama de flujo hallar raices cuadradas.`
+
+![Diagramaraices](https://i.postimg.cc/6pjx3wW7/Diagramaraices.png)
