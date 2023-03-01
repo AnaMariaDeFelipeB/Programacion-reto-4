@@ -71,10 +71,11 @@ Restar: Pareja - i^2
    Si no, entonces: 
 Sumar: i + 1 y repetir el proceso hasta que i^2 = Pareja/digito o es el número menor más cercano a la pareja/digito.
 
+
 Mientras que haya más parejas de n, hacer: 
-Tomar la siguiente pareja y agregarla al residuo de (Pareja/digito - i^2)
-Luego, multiplicar a i por 2. 
-Al resultado de ((i*2) agregar a j y multiplicarlo por j) = p
+   Tomar la siguiente pareja y agregarla al residuo de (Pareja/digito - i^2)
+   Luego, multiplicar a i por 2. 
+   Al resultado de ((i*2) agregar a j y multiplicarlo por j) = p
 
    Si p = Pareja o es el número menor más cercano a la pareja, entonces: 
 Agregar p a i y restar: pareja – p. 
